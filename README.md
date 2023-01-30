@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, my name is Rafal and I'm a student of Web Development.
+
+I'm currently learning:
+ - HTML
+ - CSS
+ - JavaScript
+ - React.js
+ 
+I also have previous experience with:
+ - Python
+ - C#
+ - Scala
+ - Java
 
 <!--
 **RafalbCzajka/RafalbCzajka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
