@@ -4,7 +4,6 @@ I'm currently learning:
  - HTML
  - CSS
  - JavaScript
- - React.js
  
 I also have previous experience with:
  - Python
